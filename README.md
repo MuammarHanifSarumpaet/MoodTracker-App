@@ -38,7 +38,10 @@ Aplikasi ini membantu pengguna memahami pola emosi melalui pencatatan jurnal dan
 - Image Picker
 - Local Storage
 
-7. Link APK/AAB untuk testing dan Video Presentasi
+7. Link APK/AAB
+https://drive.google.com/file/d/1YrUG7xNai4EQgs432X4mQX4C2Law21DH/view?usp=drive_link
+   
+8. Video Presentasi
 
 Nama: Muammar Hanif Sarumpaet 
 NIM : A11.2022.14598
